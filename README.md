@@ -1,3 +1,4 @@
 # deduction-game
 
-Deduction game based on martemind rules.
+Deduction game based on martemind game rules.
+Operates on console.
